@@ -1,0 +1,2 @@
+IP: ::1, Timestamp: 2025-03-14T16:11:31.415Z, Path: /
+IP: ::1, Timestamp: 2025-03-14T16:11:32.331Z, Path: /favicon.ico
